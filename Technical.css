@@ -25,4 +25,8 @@
     .nav-link{
         font-size:30px;
     }
+    a:hover{
+        color:rgb(0, 0, 0);
+    }
+    
     
