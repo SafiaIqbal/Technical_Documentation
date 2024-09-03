@@ -29,4 +29,17 @@
         color:rgb(0, 0, 0);
     }
     
+.main {
+    margin-left: 300px; 
+        padding: 16px;
+        font-size:20px;
+}
+
+header{
+    font-size:30px;
+    font-weight:bold;
+    text-decoration:underline;
+
+}
+    
     
