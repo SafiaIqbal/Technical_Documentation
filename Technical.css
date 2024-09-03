@@ -13,3 +13,16 @@
     flex-direction: column; 
    
 }
+
+#nav-head{
+    font-size:25px;
+    font-weight:bold;
+    white-space:nowrap;
+    margin-top:20px;
+    margin-left:12px;
+    
+    }
+    .nav-link{
+        font-size:30px;
+    }
+    
